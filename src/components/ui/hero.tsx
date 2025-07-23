@@ -48,7 +48,7 @@ export default function Hero() {
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6">
-              <span className="text-white">Hi, I'm a </span>
+              <span className="text-white">Hi, I&apos;m a </span>
               <span className="text-yellow-400 relative">
                 Web Developer
                 <span className="absolute -bottom-2 left-0 w-full h-1 bg-gradient-to-r from-yellow-400 to-transparent"></span>

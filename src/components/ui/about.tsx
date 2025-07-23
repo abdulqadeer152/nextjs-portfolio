@@ -33,7 +33,7 @@ export default function About() {
             About <span className="text-yellow-400">Me</span>
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            I'm a passionate developer who loves creating innovative solutions at the intersection of{" "}
+            I&apos;m a passionate developer who loves creating innovative solutions at the intersection of{" "}
             <span className="text-yellow-400">web development</span> and{" "}
             <span className="text-yellow-400">artificial intelligence</span>.
           </p>
@@ -49,13 +49,13 @@ export default function About() {
               systems and AI agent creation.
             </p>
             <p className="text-gray-300 mb-4 leading-relaxed">
-              I'm particularly passionate about building{" "}
+              I&apos;m particularly passionate about building{" "}
               <span className="text-yellow-400 font-semibold">AI-powered applications</span> that solve real-world
-              problems and enhance user experiences. Whether it's developing responsive web interfaces or creating
+              problems and enhance user experiences. Whether it&apos;s developing responsive web interfaces or creating
               intelligent chatbots, I bring creativity and technical expertise to every project.
             </p>
             <p className="text-gray-300 leading-relaxed">
-              When I'm not coding, I enjoy staying up-to-date with the latest developments in AI and web technologies,
+              When I&apos;m not coding, I enjoy staying up-to-date with the latest developments in AI and web technologies,
               contributing to open-source projects, and sharing knowledge with the developer community.
             </p>
           </div>

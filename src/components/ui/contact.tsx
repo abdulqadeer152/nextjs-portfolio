@@ -65,7 +65,7 @@ export default function Contact() {
             Get In <span className="text-yellow-400">Touch</span>
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Ready to work together? I'd love to hear about your project and discuss how I can help bring your ideas to
+            Ready to work together? I&apos;d love to hear about your project and discuss how I can help bring your ideas to
             life.
           </p>
         </div>
@@ -73,7 +73,7 @@ export default function Contact() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
           {/* Contact Information */}
           <div>
-            <h3 className="text-2xl font-bold text-white mb-8">Let's Connect</h3>
+            <h3 className="text-2xl font-bold text-white mb-8">Let&apos;s Connect</h3>
 
             <div className="space-y-6 mb-8">
               {contactInfo.map((item, index) => (
